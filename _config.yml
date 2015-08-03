@@ -4,4 +4,4 @@ baseurl: /
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
-# baseurl: /dev.artsholland.com
+ baseurl: /artsholland-dev/
