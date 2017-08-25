@@ -3,8 +3,8 @@
 Arts Holland developers site. Live version is at http://erfgeo.nl/artsholland-dev/.
 
 * [Project Introductory Video](/screenshots/Arts-Holland-introductory-video.mp4)
-* [Showcase Applications](/screenshots/Arts-Holland-devsite-showcase.png)
-* [Developer API documentation](/screenshots/Arts-Holland-devsite-devAPI.png)
+* Screenshot [Showcase Applications](/screenshots/Arts-Holland-devsite-showcase.png)
+* Screenshot [Developer API documentation](/screenshots/Arts-Holland-devsite-devAPI.png)
 
 ## Screengrabs:
 
